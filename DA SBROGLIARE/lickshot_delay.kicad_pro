@@ -682,16 +682,16 @@
       {
         "filename": "lickshot_delay.kicad_sch",
         "name": "lickshot_delay",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ce0b267b-b5db-4b02-b34a-2171d0b1d2ed"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J1-2,SW3,#PWR23-24",
     "variants": []
   },
   "sheets": [
     [
       "ce0b267b-b5db-4b02-b34a-2171d0b1d2ed",
-      "Root"
+      "lickshot_delay"
     ]
   ],
   "text_variables": {},
